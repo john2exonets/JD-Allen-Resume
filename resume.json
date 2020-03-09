@@ -1,0 +1,228 @@
+{
+  "basics": {
+    "name": "John D. Allen",
+    "picture": "",
+    "email": "unmogg+jobs@gmail.com",
+    "phone": "(425) 533-3027",
+    "website": "http://www.BigRedStack.com",
+    "summary": "IoT & Cloud technologist/integrator with a passion for learning new things. I love creating end-to-end solutions that solve business problems for customers. My designs have helped my employers win awards, and brought in millions of dollars in sales. Love to write content and present solutions.",
+    "location": {
+      "address": "5802 Bracknell Drive",
+      "postalCode": "TX 75002",
+      "city": "Parker",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/johndallen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "A10 Networks",
+      "position": "Sr. Solutions Engineer",
+      "website": "https://www.a10networks.com",
+      "startDate": "2018-08",
+      "summary": "Selling network security solutins to Fortune 20 customers. Member of the DDoS SME Team. Member of the Cloud SME Team. Routinely give webinars and write blogs posts on use case solutions.",
+      "highlights": [
+        "Created install and demo document for upcoming Container product."
+      ]
+    },
+    {
+      "company": "F5 Networks",
+      "position": "Sr. Solutions Architect",
+      "website": "https://www.f5.com",
+      "startDate": "2010-12",
+      "endDate": "2018-04",
+      "summary": "Created solutions to help partners sell more of their products and services. Worked with partners like: Red Hat, Pivotal, Docker, Equinix, IBM, HP, Ericsson, Nokia, Alcatel-Lucent, Skyfire, Openwave, Genband, Sonus, and others. Created demos, videos, white papers, blog posts, and marketing content in support of F5 solutions. Presented at conferences on topics like 'IoT Security' and 'Multi-Cloud Failover'",
+      "highlights": [
+        "Designed Multi-Cloud Failover solution",
+        "Helped start the IoT Organization",
+        "Successfully made F5 product part of a partners main solution"
+      ]
+    },
+    {
+      "company": "Exonets LLC",
+      "position": "President, Sr. Mobile Data Systems Engineer, IoT Architect, Cloud Architect",
+      "website": "http://www.exonets.com",
+      "startDate": "2007-09",
+      "summary": "Systems Engineering Consulting company providing Data Messaging Engineering and Systems Integration services to cellular mobile operators like AT&T Mobility, T-Mobile USA, and Verizon.",
+      "highlights": [
+        "Install first MMSC for AT&T iPhones",
+        "On-site engineer for Nokia"
+      ]
+    },
+    {
+      "company": "Gemini Mobile Technologies",
+      "position": "Sr. Sales Engineer",
+      "startDate": "2006-05",
+      "endDate": "2007-08",
+      "summary": "Cellular Messaging Sales & Systems Engineering. Working with the latest in very large IMS Messaging systems",
+      "highlights": [
+        "Helped to engineer 3-D Mobile Social Networking product"
+      ]
+    },
+    {
+      "company": "Cingular Wireless",
+      "position": "OSS Systems Architect",
+      "startDate": "2006-02",
+      "endDate": "2006-05",
+      "summary": "Help define and design Operational Support systems at Cingular."
+    },
+    {
+      "company": "Openwave Systems",
+      "position": "Sr. Systems Engineer",
+      "startDate": "2001-02",
+      "endDate": "2005-09",
+      "summary": "Managed pre- & post-technical sales to McCaw Cellular/AT&T Wireless/Cingular and T-Mobile."
+    },
+    {
+      "company": "Logica Aldiscon",
+      "position": "Lead Operations Engineer",
+      "startDate": "1998-08",
+      "endDate": "2001-02",
+      "summary": "Engineered and Installed SMSC complex at AT&T Wireless.",
+      "highlights": [
+        "Helped design and engineer first TDMA OTA system in the US"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "FCC Amateur Radio Operator, General Class, KD7SEE",
+      "startDate": "2002-03"
+    },
+    {
+      "name": "Brazil Work Visa",
+      "endDate": "2023"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hight Five Award",
+      "date": "2016-04",
+      "awarder": "F5 Networks",
+      "summary": "Recognized by peers for outstanding work in helping to close business with large service provider customers."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Windows 3.1 Connectivity Secrets",
+      "publisher": "IDG Books",
+      "releaseDate": "1994-02-01",
+      "summary": "Wrote the Banyan Vines section of the book."
+    },
+    {
+      "name": "7 Requirements for Optimized Traffic Flow and Security in Kubernetes",
+      "publisher": "The New Stack",
+      "releaseDate": "2019-07-31",
+      "website": "https://thenewstack.io/7-requirements-for-optimized-traffic-flow-and-security-in-kubernetes/"
+    },
+    {
+      "name": "Interview with Tamara McCleary on Future Speed of App Development using AI and Cloud",
+      "publisher": "Tamara McCleary",
+      "releaseDate": "2018-12-17",
+      "website": "https://twitter.com/TamaraMcCleary/status/1074558310945353728"
+    },
+    {
+      "name": "Panel Discussion: Achieving Data Integrity and Security",
+      "publisher": "Enterprise IoT Summit - 2017",
+      "releaseDate": "2017-03-29",
+      "website": "https://www.youtube.com/watch?v=47bL7GIaSiQ"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cloud",
+      "keywords": [
+        "Kubernetes",
+        "OpenShift",
+        "Docker",
+        "VMWare"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "MSA/SOA",
+        "Jenkins/CI-CD",
+        "Virtualization",
+        "Ansible"
+      ]
+    },
+    {
+      "name": "Networking",
+      "keywords": [
+        "Routers",
+        "Switches",
+        "DNS",
+        "Cisco",
+        "Quagga",
+        "WiFi"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "Node.JS/Javascript",
+        "Ruby",
+        "Python",
+        "Perl"
+      ]
+    },
+    {
+      "name": "Web",
+      "keywords": [
+        "Apache",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "IoT",
+      "keywords": [
+        "MQTT",
+        "MQTT Security"
+      ]
+    },
+    {
+      "name": "Cellular",
+      "keywords": [
+        "3GPP",
+        "Diameter",
+        "MMSC",
+        "SMSC",
+        "SS7"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Amateur Radio",
+      "keywords": [
+        "HF",
+        "VHF",
+        "Satellites"
+      ]
+    },
+    {
+      "name": "Electrical Engineering",
+      "keywords": [
+        "Arduino",
+        "Home Automation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Tim Stern",
+      "reference": "John brings a combination of technical and business savvy that is difficult to find in the same person.  He is equally comfortable presenting to a business audience as he is when he's hands-on in a lab/production environment.  When we worked together, John was a reliable and dependable team member with high standards and the consummate professional."
+    },
+    {
+      "name": "Melinda Wynn Jackson",
+      "reference": "I worked with John both when I was a Consulting Systems Engineer and later as a Product Manager. John was always a pleasure to work with, a strong customer focus and the tenacity to pursue any technical issue until he had the answer. If you have a problem to solve - put John on it."
+    }
+  ]
+}

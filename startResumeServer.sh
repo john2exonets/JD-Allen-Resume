@@ -1,0 +1,2 @@
+resume serve --theme kendall
+
