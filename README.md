@@ -5,3 +5,4 @@ Any *REAL* DevOps person will have their Resume plugged into their CI/CD work fl
 
 [JSON Resume](https://jsonresume.org/)
 
+[My Current Resume](https://bigredstack.com/resume/)
