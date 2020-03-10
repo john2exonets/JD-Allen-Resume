@@ -17,6 +17,10 @@
       {
         "network": "LinkedIn",
         "url": "https://www.linkedin.com/in/johndallen"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/john2exonets?tab=repositories"
       }
     ]
   },
