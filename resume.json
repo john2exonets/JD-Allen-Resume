@@ -3,8 +3,10 @@
     "name": "John D. Allen",
     "picture": "",
     "email": "unmogg+jobs@gmail.com",
-    "phone": "(425) 533-3027",
-    "website": "http://www.BigRedStack.com",
+    "website": [
+      "https://BigRedStack.com",
+      "https://DIYSmartHome.io"
+    ],
     "summary": "IoT & Cloud technologist/integrator with a passion for learning new things. I love creating end-to-end solutions that solve business problems for customers. My designs have helped my employers win awards, and brought in millions of dollars in sales. Love to write content and present solutions.",
     "location": {
       "address": "5802 Bracknell Drive",
